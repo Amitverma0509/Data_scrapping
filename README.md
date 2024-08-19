@@ -53,8 +53,8 @@ The extracted data will be saved in a `data.csv` file in the project directory.
 ## Project Structure
 
 ```plaintext
-├── data/               # Directory to store HTML files
 ├── project.py          # Script to scrape data from Amazon and save as HTML files
+├── data/               # Directory to store HTML files
 ├── collect.py          # Script to extract data from HTML files and save to CSV
 ├── data.csv            # Output CSV file with extracted data
 └── README.md           # Project documentation (this file)
